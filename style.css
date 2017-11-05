@@ -46,6 +46,7 @@ form{
 	width: 400px;
 	padding: 35px 60px;
 	/*margin: 80px auto;*/
+    position: relative;
 }
 
 form h1{
